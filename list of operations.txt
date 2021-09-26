@@ -1,0 +1,17 @@
+ADD
+SUB
+ADDi
+SUBi
+AND
+OR
+XOR
+ANDi
+ORi
+XORi
+LW
+SW
+BNE
+BEQ
+Din
+Dout
+J

@@ -1,0 +1,13 @@
+ADD $s0, $s1, $t0
+SUB $s0, $s1, $t0
+ADDi $s0, $s1, 5
+SUBi $s0, $s1, 4
+AND $s0, $s1, $t0
+OR $s0, $s1, $t0
+XOR $s0, $s1, $t0
+ANDi $s0, $s1, 5
+ORi $s0, $s1, 5
+LW $s0, 1($s1)
+BNE $s1, $t0, 3
+BEQ $s1, $t0, 2
+J 5

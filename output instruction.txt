@@ -1,0 +1,78 @@
+ADD instruction:
+00000 010 101 001 
+0251
+SUB instruction:
+00001 010 101 001 
+1251
+ADDi instruction:
+00010 010 101 001 
+2251
+SUBi instruction:
+00011 010 100 001 
+3241
+AND instruction:
+00100 010 101 001 
+4251
+OR instruction:
+00101 010 101 001 
+5251
+XOR instruction:
+00110 010 101 001 
+6251
+ANDi instruction:
+00111 010 101 001 
+7251
+ORi instruction:
+01000 010 101 001 
+8251
+LW instruction:
+01010 010 001 001 
+a211
+BNE instruction:
+01100 101 011 010 
+c532
+BEQ instruction:
+01101 101 010 010 
+d522
+J instruction:
+10000 5
+105
+ADD instruction:
+00000 010 101 001 
+0251
+SUB instruction:
+00001 010 101 001 
+1251
+ADDi instruction:
+00010 010 101 001 
+2251
+SUBi instruction:
+00011 010 100 001 
+3241
+AND instruction:
+00100 010 101 001 
+4251
+OR instruction:
+00101 010 101 001 
+5251
+XOR instruction:
+00110 010 101 001 
+6251
+ANDi instruction:
+00111 010 101 001 
+7251
+ORi instruction:
+01000 010 101 001 
+8251
+LW instruction:
+01010 010 001 001 
+a211
+BNE instruction:
+01100 101 011 010 
+c532
+BEQ instruction:
+01101 101 010 010 
+d522
+J instruction:
+10000 5
+105
